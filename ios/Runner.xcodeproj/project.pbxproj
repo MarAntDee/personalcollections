@@ -562,7 +562,7 @@
 					"$(PROJECT_DIR)/Flutter",
 				);
 				MARKETING_VERSION = 4.3.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.wrteam.eshop;
+				PRODUCT_BUNDLE_IDENTIFIER = com.jk2l2.personalcollections;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
@@ -711,7 +711,7 @@
 					"$(PROJECT_DIR)/Flutter",
 				);
 				MARKETING_VERSION = 4.3.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.wrteam.eshop;
+				PRODUCT_BUNDLE_IDENTIFIER = com.jk2l2.personalcollections;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
@@ -753,7 +753,7 @@
 					"$(PROJECT_DIR)/Flutter",
 				);
 				MARKETING_VERSION = 4.3.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.wrteam.eshop;
+				PRODUCT_BUNDLE_IDENTIFIER = com.jk2l2.personalcollections;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";

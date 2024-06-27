@@ -31,7 +31,7 @@
 			<string>Bundle id</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>com.wrteam.eshop</string>
+				<string>com.jk2l2.personalcollections</string>
 			</array>
 		</dict>
 		<dict>

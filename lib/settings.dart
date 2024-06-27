@@ -4,8 +4,8 @@ class AppSettings {
   ///
   ///App Name
   static const String appName = 'Personal Collections';
-  static const String packageName = 'com.eshopsingle.customer';
-  static const String iosPackage = 'com.wrteam.eshop';
+  static const String packageName = 'com.jk2l2.personalcollections';
+  static const String iosPackage = 'com.jk2l2.personalcollections';
   static const String iosLink = 'your ios link here';
   static const String appStoreId = '123456789';
   //change this with your client secret and API urls

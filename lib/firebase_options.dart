@@ -65,8 +65,10 @@ class DefaultFirebaseOptions {
     projectId: 'eshop-2210d',
     databaseURL: 'https://eshop-2210d.firebaseio.com',
     storageBucket: 'eshop-2210d.appspot.com',
-    androidClientId: '365058967814-0ui2rsgofdu5fioj0e7uoapco13g6i6k.apps.googleusercontent.com',
-    iosClientId: '365058967814-6nrkjtfh0u9b3dgqvep9k70q1ncennak.apps.googleusercontent.com',
-    iosBundleId: 'com.wrteam.eshop',
+    androidClientId:
+        '365058967814-0ui2rsgofdu5fioj0e7uoapco13g6i6k.apps.googleusercontent.com',
+    iosClientId:
+        '365058967814-6nrkjtfh0u9b3dgqvep9k70q1ncennak.apps.googleusercontent.com',
+    iosBundleId: 'com.jk2l2.personalcollections',
   );
 }
