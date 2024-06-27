@@ -3,7 +3,7 @@ class AppSettings {
   ///Basic setup details
   ///
   ///App Name
-  static const String appName = 'eShop';
+  static const String appName = 'Personal Collections';
   static const String packageName = 'com.eshopsingle.customer';
   static const String iosPackage = 'com.wrteam.eshop';
   static const String iosLink = 'your ios link here';
