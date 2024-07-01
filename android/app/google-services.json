@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "526689364216",
+    "project_id": "personalcollections-dda9f",
+    "storage_bucket": "personalcollections-dda9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526689364216:android:1e935478c306084050b30d",
+        "android_client_info": {
+          "package_name": "com.jk2l2.personalcollections"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyn7hWnFxKp9CONja9KPEXFUnmFSIT1vY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
