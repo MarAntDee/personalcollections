@@ -1,45 +1,41 @@
 import 'package:flutter/material.dart';
 
 extension colors on ColorScheme {
-  static MaterialColor primary_app = const MaterialColor(
-    0xff6133BD,
-    <int, Color>{
-      50: primary,
-      100: primary,
-      200: primary,
-      300: primary,
-      400: primary,
-      500: primary,
-      600: primary,
-      700: primary,
-      800: primary,
-      900: primary,
-    },
-  );
+  static MaterialColor primary_app =
+      const MaterialColor(0xFFE3212D, <int, Color>{
+    50: Color(0xFFFCE4E6),
+    100: Color(0xFFF7BCC0),
+    200: Color(0xFFF19096),
+    300: Color(0xFFEB646C),
+    400: Color(0xFFE7424D),
+    500: primary,
+    600: Color(0xFFE01D28),
+    700: Color(0xFFDC1822),
+    800: Color(0xFFD8141C),
+    900: Color(0xFFD00B11),
+  });
 
-  static MaterialColor dark_primary_app = const MaterialColor(
-    0xff7E57C2,
-    <int, Color>{
-      50: primary,
-      100: primary,
-      200: primary,
-      300: primary,
-      400: primary,
-      500: primary,
-      600: primary,
-      700: primary,
-      800: primary,
-      900: primary,
-    },
-  );
+  static MaterialColor dark_primary_app =
+      const MaterialColor(0xFFE3212D, <int, Color>{
+    50: Color(0xFFFCE4E6),
+    100: Color(0xFFF7BCC0),
+    200: Color(0xFFF19096),
+    300: Color(0xFFEB646C),
+    400: Color(0xFFE7424D),
+    500: primary,
+    600: Color(0xFFE01D28),
+    700: Color(0xFFDC1822),
+    800: Color(0xFFD8141C),
+    900: Color(0xFFD00B11),
+  });
 
-  static const Color primary = Color(0xff6133BD);
+  static const Color primary = Color(0xFFE3212D);
 
-  static const Color secondary = Color(0xff2C91FE);
+  static const Color secondary = Color(0xFF53C25F);
 
-  static const darkprimary = Color(0xff7E57C2);
+  static const darkprimary = Color(0xFFE3212D);
 
-  static const darksecondary = Color(0xff4AB0FF);
+  static const darksecondary = Color(0xFF53C25F);
 
   Color get primarytheme =>
       brightness == Brightness.dark ? darkprimary : primary;

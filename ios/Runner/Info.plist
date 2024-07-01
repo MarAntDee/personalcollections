@@ -15,7 +15,7 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>eShop</string>
+	<string>Personal Collections</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
@@ -31,7 +31,7 @@
 			<string>Bundle id</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>com.wrteam.eshop</string>
+				<string>com.jk2l2.personalcollections</string>
 			</array>
 		</dict>
 		<dict>
